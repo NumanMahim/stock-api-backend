@@ -1,0 +1,16 @@
+{
+  "name": "stock-api-backend",
+  "version": "1.0.0",
+  "description": "Backend for stock API integration using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
